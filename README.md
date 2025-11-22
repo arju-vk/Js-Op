@@ -1,1 +1,3 @@
-"# Js-Op" 
+# Js-Op
+
+Two Samples of Javascript Operators.
